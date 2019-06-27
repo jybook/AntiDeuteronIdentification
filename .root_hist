@@ -1,0 +1,113 @@
+.q
+.x runAnalysis.C
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.x data_analysis1.C
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.L runAnalysis.C+g
+.q
+.x runAnalysis.C
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.L AliAnalysisTaskJulia.cxx
+.q
+.x runAnalysis.C
+.L AliAnalysisTaskJulia.h
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+aliensh
+aliench
+..q
+.
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+ls
+.q
+.x runAnalysis.C
+.
+.! vim runAnalysis.C
+.x runAnalysis.C
+.! vim runAnalysis.C
+.x runAnalysis.C
+pwd
+.q
+.x runAnalysis.C
+.x data_analysis1.C
+.q
+.x data_analysis1.C
+.q
+.x data_analysis2.C
+.! vim data_analysis2.C
+.x data_analysis2.C
+.x data_analysis2.C
+.! vim data_analysis2.C
+.x data_analysis2.C
+.! vim data_analysis2.C
+.q
+.x data_analysis2.C
+.q
+.x runAnalysis.C
+.! runAnalysis.C
+.! vim runAnalysis.C
+ls
+.! ls
+.q
+.x runAnalysis.C
+.x runAnalysis.C
+.! vim AliAnalysisTaskJulia.cxx
+.x runAnalysis.C
+.x runAnalysis.C
+get-alien-token jubook
+.! get-alien-toke jubook
+.! get-alien-tokne jubook
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+pwd
+.! pwd
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.q
+.x runAnalysis.C
+.x runAnalysis.C
+.x runAnalysis.C
+.! vim runAnalysis.C
+.x runAnalysis.C
+.! vim runAnalysis.C
+.x runAnalysis.C
+.x runAnalysis.C
+.q
+TFile *_file0 = TFile::Open("InputFile.root")
+TFile *_file0 = TFile::Open("InputFile.root")
+TBrower *b = new TBrowser
+TBrower b
+TBrower *b
+.q

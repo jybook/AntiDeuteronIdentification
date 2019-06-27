@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<alien>
+  <collection name="Stage_1">
+    <event name="1">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:17:49" dir="86615902" entryId="86616005" expiretime="" gowner="jubook" guid="C0BF14EE-981C-11E9-A153-6313D9B0B2FB" guidtime="11E9981C" jobid="1532947484" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/001/root_archive.zip" md5="b35eaa476da4c0022ec636f6acf93f23" owner="jubook" perm="755" replicated="0" size="991704" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/001/root_archive.zip" type="f" />
+    </event>
+    <event name="10">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 20:54:01" dir="86631822" entryId="86631976" expiretime="" gowner="jubook" guid="7C8904CA-9843-11E9-9213-7376C99E45CE" guidtime="11E99843" jobid="1532947493" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/010/root_archive.zip" md5="721168ea96a5c8088585cf938e651860" owner="jubook" perm="755" replicated="0" size="2054441" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/010/root_archive.zip" type="f" />
+    </event>
+    <event name="11">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:43:10" dir="86622412" entryId="86622482" expiretime="" gowner="jubook" guid="EE7234D2-9828-11E9-BCCE-07FE0318A5EB" guidtime="11E99828" jobid="1532947494" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/011/root_archive.zip" md5="d38fcbb46a8b4049ebb16ef47e27b4ee" owner="jubook" perm="755" replicated="0" size="2049329" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/011/root_archive.zip" type="f" />
+    </event>
+    <event name="12">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:55:27" dir="86623138" entryId="86623197" expiretime="" gowner="jubook" guid="AA4C0646-982A-11E9-908B-EF6B4364C1CA" guidtime="11E9982A" jobid="1532947495" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/012/root_archive.zip" md5="b408b355808952d64700c9f0d273595c" owner="jubook" perm="755" replicated="0" size="2029125" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/012/root_archive.zip" type="f" />
+    </event>
+    <event name="13">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:50:51" dir="86622885" entryId="86622975" expiretime="" gowner="jubook" guid="F0D2A512-9829-11E9-BA6E-4F4FD44402AD" guidtime="11E99829" jobid="1532947496" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/013/root_archive.zip" md5="3d626e03b988f84f5bb152d25ab9bb52" owner="jubook" perm="755" replicated="0" size="2053599" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/013/root_archive.zip" type="f" />
+    </event>
+    <event name="14">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:24:19" dir="86624481" entryId="86624548" expiretime="" gowner="jubook" guid="B12777A8-982E-11E9-BBF8-A7572F4CA2C5" guidtime="11E9982E" jobid="1532947497" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/014/root_archive.zip" md5="b8bdf91ef0748d26160ca8af24d03de2" owner="jubook" perm="755" replicated="0" size="2051275" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/014/root_archive.zip" type="f" />
+    </event>
+    <event name="15">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:45:16" dir="86625568" entryId="86625618" expiretime="" gowner="jubook" guid="9E3A68BE-9831-11E9-B056-17D35610828F" guidtime="11E99831" jobid="1532947498" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/015/root_archive.zip" md5="b14c78317d45a1a753f22c20b3d7e825" owner="jubook" perm="755" replicated="0" size="2040702" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/015/root_archive.zip" type="f" />
+    </event>
+    <event name="16">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 22:29:49" dir="86637043" entryId="86637071" expiretime="" gowner="jubook" guid="E445F980-9850-11E9-AA4B-8F33D2479432" guidtime="11E99850" jobid="1532947499" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/016/root_archive.zip" md5="132a02277ee0be8cae09d45cd12b201c" owner="jubook" perm="755" replicated="0" size="2052357" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/016/root_archive.zip" type="f" />
+    </event>
+    <event name="17">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:50:12" dir="86622788" entryId="86622925" expiretime="" gowner="jubook" guid="B4D213CC-9829-11E9-ACDC-6FAA111F8D88" guidtime="11E99829" jobid="1532947500" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/017/root_archive.zip" md5="6266a01069ce953039e8f98459b603a5" owner="jubook" perm="755" replicated="0" size="2053119" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/017/root_archive.zip" type="f" />
+    </event>
+    <event name="18">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:40:34" dir="86625396" entryId="86625442" expiretime="" gowner="jubook" guid="EEFB387E-9830-11E9-B1B0-33A1CB8CC463" guidtime="11E99830" jobid="1532947501" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/018/root_archive.zip" md5="558aafce6ed8f4c337ca446f693b5f09" owner="jubook" perm="755" replicated="0" size="1889495" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/018/root_archive.zip" type="f" />
+    </event>
+    <event name="19">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 23:32:22" dir="86638543" entryId="86638559" expiretime="" gowner="jubook" guid="B57708DE-9859-11E9-999F-5F7CB169867A" guidtime="11E99859" jobid="1532947502" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/019/root_archive.zip" md5="231fc26c52faba11f96b89fa8da1ed2e" owner="jubook" perm="755" replicated="0" size="2050704" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/019/root_archive.zip" type="f" />
+    </event>
+    <event name="2">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:11:37" dir="86615774" entryId="86615810" expiretime="" gowner="jubook" guid="2FD05E20-981C-11E9-A0D8-876D19B24F44" guidtime="11E9981C" jobid="1532947485" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/002/root_archive.zip" md5="358b0e1fea71b5a99d90279c01c88b80" owner="jubook" perm="755" replicated="0" size="885219" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/002/root_archive.zip" type="f" />
+    </event>
+    <event name="20">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:56:18" dir="86623122" entryId="86623232" expiretime="" gowner="jubook" guid="9E471E44-982A-11E9-ABA1-1351B97BF7A8" guidtime="11E9982A" jobid="1532947503" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/020/root_archive.zip" md5="596582be58907a1c095c5a4f01763d1b" owner="jubook" perm="755" replicated="0" size="2039070" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/020/root_archive.zip" type="f" />
+    </event>
+    <event name="21">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 21:03:06" dir="86632436" entryId="86632510" expiretime="" gowner="jubook" guid="BF1A822C-9844-11E9-B85B-CB797130BAD1" guidtime="11E99844" jobid="1532947504" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/021/root_archive.zip" md5="2c9ac5a82723cb32480ce1ca8adf7086" owner="jubook" perm="755" replicated="0" size="2033587" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/021/root_archive.zip" type="f" />
+    </event>
+    <event name="22">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:01:56" dir="86623379" entryId="86623446" expiretime="" gowner="jubook" guid="6E55B5BE-982B-11E9-85AF-AF9020101B8D" guidtime="11E9982B" jobid="1532947505" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/022/root_archive.zip" md5="dc99972f9d02bce5d5028932f4414333" owner="jubook" perm="755" replicated="0" size="2055347" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/022/root_archive.zip" type="f" />
+    </event>
+    <event name="23">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 21:04:14" dir="86632476" entryId="86632566" expiretime="" gowner="jubook" guid="E186645C-9844-11E9-94AD-0FFE6390A013" guidtime="11E99844" jobid="1532947506" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/023/root_archive.zip" md5="5478f07f2aef439aa31a75b4b5b3833b" owner="jubook" perm="755" replicated="0" size="2049870" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/023/root_archive.zip" type="f" />
+    </event>
+    <event name="24">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:52:34" dir="86625990" entryId="86626074" expiretime="" gowner="jubook" guid="A363F3D6-9832-11E9-A1FF-937EFF353CA6" guidtime="11E99832" jobid="1532947507" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/024/root_archive.zip" md5="4049dd75aca8992b86edcfe5f1e2f028" owner="jubook" perm="755" replicated="0" size="2059547" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/024/root_archive.zip" type="f" />
+    </event>
+    <event name="25">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 21:13:39" dir="86633170" entryId="86633282" expiretime="" gowner="jubook" guid="4CB7673E-9846-11E9-8AB0-33CA260488D6" guidtime="11E99846" jobid="1532947508" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/025/root_archive.zip" md5="bfab15ed9e10e1699a7af7c245eeb3aa" owner="jubook" perm="755" replicated="0" size="2061093" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/025/root_archive.zip" type="f" />
+    </event>
+    <event name="26">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:20:43" dir="86616152" entryId="86616163" expiretime="" gowner="jubook" guid="8B1A6B62-981D-11E9-92FF-3FDA5AF7638B" guidtime="11E9981D" jobid="1532947509" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/026/root_archive.zip" md5="6139b4fbfc65ac0c240988ea77c69fc3" owner="jubook" perm="755" replicated="0" size="1332551" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/026/root_archive.zip" type="f" />
+    </event>
+    <event name="27">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:43:32" dir="86622396" entryId="86622525" expiretime="" gowner="jubook" guid="E5FE605A-9828-11E9-AFBE-B338C527B861" guidtime="11E99828" jobid="1532947510" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/027/root_archive.zip" md5="8eee53158a1e9ace45e571c613045f7c" owner="jubook" perm="755" replicated="0" size="2049286" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/027/root_archive.zip" type="f" />
+    </event>
+    <event name="28">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:05:27" dir="86619149" entryId="86619215" expiretime="" gowner="jubook" guid="A6EA5CCA-9823-11E9-A70B-632A7BA5FE8F" guidtime="11E99823" jobid="1532947511" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/028/root_archive.zip" md5="3703b6730ff4e1dddeb2979289c4475c" owner="jubook" perm="755" replicated="0" size="1967817" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/028/root_archive.zip" type="f" />
+    </event>
+    <event name="29">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:32:26" dir="86620861" entryId="86620976" expiretime="" gowner="jubook" guid="8D25C096-9827-11E9-B129-03A07E18CC34" guidtime="11E99827" jobid="1532947512" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/029/root_archive.zip" md5="a578806af2f596aa48abee44277d5c44" owner="jubook" perm="755" replicated="0" size="2044425" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/029/root_archive.zip" type="f" />
+    </event>
+    <event name="3">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:42:20" dir="86622351" entryId="86622442" expiretime="" gowner="jubook" guid="D396E9A0-9828-11E9-AFEE-E31781329458" guidtime="11E99828" jobid="1532947486" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/003/root_archive.zip" md5="66f7d9677098877ba133c3be57a9afc7" owner="jubook" perm="755" replicated="0" size="2026993" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/003/root_archive.zip" type="f" />
+    </event>
+    <event name="30">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:31:25" dir="86620604" entryId="86620667" expiretime="" gowner="jubook" guid="6A523A04-9827-11E9-90A6-AB7D362E2957" guidtime="11E99827" jobid="1532947513" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/030/root_archive.zip" md5="57be57d34c8a527ded00ee9abd738ea6" owner="jubook" perm="755" replicated="0" size="2049666" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/030/root_archive.zip" type="f" />
+    </event>
+    <event name="31">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:07:09" dir="86623649" entryId="86623660" expiretime="" gowner="jubook" guid="6AD2BC92-982C-11E9-BBBA-8F8052363B8F" guidtime="11E9982C" jobid="1532947514" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/031/root_archive.zip" md5="18ce3e71bcac0b5f2255fa177f745f97" owner="jubook" perm="755" replicated="0" size="2058920" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/031/root_archive.zip" type="f" />
+    </event>
+    <event name="32">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:36:57" dir="86621898" entryId="86621947" expiretime="" gowner="jubook" guid="2D2A30B8-9828-11E9-AE44-A7858ED4E22E" guidtime="11E99828" jobid="1532947515" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/032/root_archive.zip" md5="49b9c9ae39b08e7242c72af69b8cdb83" owner="jubook" perm="755" replicated="0" size="2051805" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/032/root_archive.zip" type="f" />
+    </event>
+    <event name="33">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:35:45" dir="86621663" entryId="86621773" expiretime="" gowner="jubook" guid="04E0BB5E-9828-11E9-9A08-D72B0142881A" guidtime="11E99828" jobid="1532947516" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/033/root_archive.zip" md5="24a19c8f90d47125ca3d9fb26a1133fe" owner="jubook" perm="755" replicated="0" size="2053508" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/033/root_archive.zip" type="f" />
+    </event>
+    <event name="34">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:30:48" dir="86616935" entryId="86616951" expiretime="" gowner="jubook" guid="F41AE03C-981E-11E9-B221-6F9EE9D4EFD6" guidtime="11E9981E" jobid="1532947517" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/034/root_archive.zip" md5="41677fc8621bfee8b7faee8dcbe371cb" owner="jubook" perm="755" replicated="0" size="1505794" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/034/root_archive.zip" type="f" />
+    </event>
+    <event name="35">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:18:22" dir="86619913" entryId="86619966" expiretime="" gowner="jubook" guid="8CB97A78-9825-11E9-BC48-17428173C2E1" guidtime="11E99825" jobid="1532947518" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/035/root_archive.zip" md5="2d68641297319fbedee169d7496238a2" owner="jubook" perm="755" replicated="0" size="2056887" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/035/root_archive.zip" type="f" />
+    </event>
+    <event name="36">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:43:41" dir="86622387" entryId="86622535" expiretime="" gowner="jubook" guid="E3DF7D04-9828-11E9-BCC3-B7D296384177" guidtime="11E99828" jobid="1532947519" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/036/root_archive.zip" md5="fd4db90eba9d0b4953687eba34a5e6b8" owner="jubook" perm="755" replicated="0" size="1991221" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/036/root_archive.zip" type="f" />
+    </event>
+    <event name="37">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:11:37" dir="86615735" entryId="86615815" expiretime="" gowner="jubook" guid="0BDE0634-981C-11E9-BF8C-F78CA3E8B791" guidtime="11E9981C" jobid="1532947520" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/037/root_archive.zip" md5="6fd057bff452726c03746bc2a6ea214a" owner="jubook" perm="755" replicated="0" size="869254" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/037/root_archive.zip" type="f" />
+    </event>
+    <event name="38">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:50:51" dir="86622880" entryId="86622980" expiretime="" gowner="jubook" guid="E9ADA822-9829-11E9-9497-7725C9B68F16" guidtime="11E99829" jobid="1532947521" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/038/root_archive.zip" md5="b0eeca0eeefdcd658bdeeea0b703a7fa" owner="jubook" perm="755" replicated="0" size="2040898" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/038/root_archive.zip" type="f" />
+    </event>
+    <event name="39">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:48:06" dir="86622690" entryId="86622818" expiretime="" gowner="jubook" guid="8244AFA0-9829-11E9-89C3-1BD191026F3C" guidtime="11E99829" jobid="1532947522" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/039/root_archive.zip" md5="4a6ed4d8cad009f55bba29a67ca43cd1" owner="jubook" perm="755" replicated="0" size="2043594" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/039/root_archive.zip" type="f" />
+    </event>
+    <event name="4">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:08:10" dir="86623642" entryId="86623703" expiretime="" gowner="jubook" guid="670ACCEE-982C-11E9-96D1-2FDBBAB895A9" guidtime="11E9982C" jobid="1532947487" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/004/root_archive.zip" md5="1b58f7ea1c968ff33e7339e42d8594f0" owner="jubook" perm="755" replicated="0" size="2045438" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/004/root_archive.zip" type="f" />
+    </event>
+    <event name="40">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:45:06" dir="86617518" entryId="86617662" expiretime="" gowner="jubook" guid="5FB267EC-9820-11E9-BD61-4BF161523DB8" guidtime="11E99820" jobid="1532947523" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/040/root_archive.zip" md5="be323ad89d923efaecd5b94484196612" owner="jubook" perm="755" replicated="0" size="1545259" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/040/root_archive.zip" type="f" />
+    </event>
+    <event name="41">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:55:17" dir="86623159" entryId="86623184" expiretime="" gowner="jubook" guid="B5698986-982A-11E9-AD99-032D52AEEC89" guidtime="11E9982A" jobid="1532947524" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/041/root_archive.zip" md5="f71ba985a116193aa9787dbbe89a01d3" owner="jubook" perm="755" replicated="0" size="1625852" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/041/root_archive.zip" type="f" />
+    </event>
+    <event name="42">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 16:44:56" dir="86617485" entryId="86617646" expiretime="" gowner="jubook" guid="4118B660-9820-11E9-B073-83020AC890EA" guidtime="11E99820" jobid="1532947525" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/042/root_archive.zip" md5="592cdba5acb33fca864bdb879955256f" owner="jubook" perm="755" replicated="0" size="1393451" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/042/root_archive.zip" type="f" />
+    </event>
+    <event name="43">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:54:26" dir="86623056" entryId="86623139" expiretime="" gowner="jubook" guid="6311D4B8-982A-11E9-A3A9-BB5A92D691C7" guidtime="11E9982A" jobid="1532947526" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/043/root_archive.zip" md5="c203353effcfbe1a076d45885ce48784" owner="jubook" perm="755" replicated="0" size="2051152" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/043/root_archive.zip" type="f" />
+    </event>
+    <event name="44">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 17:16:40" dir="86619752" entryId="86619856" expiretime="" gowner="jubook" guid="18C4695C-9825-11E9-AA6A-5F8879F52905" guidtime="11E99825" jobid="1532947527" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/044/root_archive.zip" md5="b74357159850615f23689fc91b195f60" owner="jubook" perm="755" replicated="0" size="1859083" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/044/root_archive.zip" type="f" />
+    </event>
+    <event name="5">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:15:25" dir="86623888" entryId="86623928" expiretime="" gowner="jubook" guid="6EDB7DD2-982D-11E9-99FD-8BC857F529C9" guidtime="11E9982D" jobid="1532947488" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/005/root_archive.zip" md5="b1229f213d5f214f25946c96851cc15f" owner="jubook" perm="755" replicated="0" size="2051096" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/005/root_archive.zip" type="f" />
+    </event>
+    <event name="6">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:10:02" dir="86623731" entryId="86623774" expiretime="" gowner="jubook" guid="B147DAAE-982C-11E9-91BE-1BE9866124F8" guidtime="11E9982C" jobid="1532947489" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/006/root_archive.zip" md5="fc5e51322908c08534af7fb5496dd4dc" owner="jubook" perm="755" replicated="0" size="2017975" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/006/root_archive.zip" type="f" />
+    </event>
+    <event name="7">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:00:18" dir="86623369" entryId="86623392" expiretime="" gowner="jubook" guid="57B7A0E2-982B-11E9-94F0-A3635E29AD10" guidtime="11E9982B" jobid="1532947490" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/007/root_archive.zip" md5="9e5d401e0774ce45e1d16364ea1b40f7" owner="jubook" perm="755" replicated="0" size="2064498" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/007/root_archive.zip" type="f" />
+    </event>
+    <event name="8">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:33:55" dir="86625010" entryId="86625151" expiretime="" gowner="jubook" guid="E5DA5A96-982F-11E9-BC8D-47F2D83477AA" guidtime="11E9982F" jobid="1532947491" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/008/root_archive.zip" md5="8593e55de6a5fb247d012a0c8ac92b3f" owner="jubook" perm="755" replicated="0" size="2054776" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/008/root_archive.zip" type="f" />
+    </event>
+    <event name="9">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-26 18:35:25" dir="86625191" entryId="86625228" expiretime="" gowner="jubook" guid="3EBFB908-9830-11E9-8FDB-AFF31C77AC15" guidtime="11E99830" jobid="1532947492" lfn="/alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/009/root_archive.zip" md5="384e9625bc37c05b2c63638965aba95f" owner="jubook" perm="755" replicated="0" size="2029883" turl="alien:///alice/cern.ch/user/j/jubook/JULIA_DIR_3/OUTPUT/000/009/root_archive.zip" type="f" />
+    </event>
+    <info command="[/alice/cern.ch/user/j/jubook/]: find -z -x Stage_1 /alice/cern.ch/user/j/jubook//JULIA_DIR_3/OUTPUT/000 *root_archive.zip" creator="admin" date="Wed Jun 26 23:53:05 CEST 2019" timestamp="1561585985" />
+  </collection>
+</alien>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
